@@ -50,7 +50,7 @@ export default function FooterContainer() {
             </Footer.Icon>
           </Footer.Content>
           <Footer.Copyright>
-            © 2022 &bull; Todos os direitos reservados a{" "}
+            © {new Date().getFullYear()} &bull; Todos os direitos reservados a{" "}
             <Footer.Strong>Daniel Silva</Footer.Strong>
           </Footer.Copyright>
         </Footer>

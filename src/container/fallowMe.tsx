@@ -14,17 +14,17 @@ export default function FallowMeContainer() {
     {
       name: "github",
       icon: <RiGithubLine title="GitHub" />,
-      url: "https://github.com/dfsilva-dxp"
+      url: "https://github.com/dfsilvadev"
     },
     {
       name: "instagram",
       icon: <RiInstagramLine title="Instagram" />,
-      url: "https://www.instagram.com/daniel.dxp/"
+      url: "https://www.instagram.com/dfsilva.dev"
     },
     {
       name: "linkedin",
       icon: <RiLinkedinBoxLine title="Linkedin" />,
-      url: "https://www.linkedin.com/in/daniel-silva-dxp/"
+      url: "https://www.linkedin.com/in/dfsilva-dev/"
     }
   ];
 
