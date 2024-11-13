@@ -23,7 +23,7 @@ export default {
   },
   colors: {
     white: "#FFF",
-    black: "#08070B",
+    black: "#171717",
     primary: "#00FF99",
     secondary: "#7F64EE",
     panel: "#212024",

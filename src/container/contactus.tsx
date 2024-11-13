@@ -28,7 +28,7 @@ export default function ContacUsContainer() {
                     <TiLocationOutline title="Location Icon" />
                   </ContactUs.Icon>
                   <ContactUs.Paragraph>
-                    Suzano - São Paulo - Brasil
+                    São Paulo - SP - Brasil
                   </ContactUs.Paragraph>
                 </ContactUs.Group>
 
